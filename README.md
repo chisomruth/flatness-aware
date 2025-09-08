@@ -8,7 +8,7 @@ The project implements and evaluates FA-Regularization using:
 - 2-layer MLP with ReLU activation on CIFAR-100
 - Hutchinson's stochastic trace estimator for efficient Tr(H²) computation
 - Comprehensive experiments across different regularization strengths
-- Loss landsFApe visualization to demonstrate flatness
+- Loss landscape visualization to demonstrate flatness
 
 
 ## Installation
@@ -54,7 +54,7 @@ EXPERIMENT_CONFIG = {
 
 ### Individual Components
 
-You FAn also run individual components:
+You can also run individual components:
 
 ```python
 from data_utils import load_cifar100_subset
@@ -128,7 +128,7 @@ The code runs comprehensive experiments to evaluate:
    - Compare test accuracies across λ values
 
 2. Does it find flatter minima?
-   - Loss landsFApe visualization and sharpness metrics
+   - Loss landscape visualization and sharpness metrics
 
 3. What's the optimal regularization strength?
    - Performance analysis across different λ values
@@ -192,7 +192,7 @@ If you use this code in your research, please cite:
 ```
 @article{chibfatim2025Flatness,
     title={Flatness-Aware Regularization for Robust Generalization in Deep Networks},
-    author={Chibuike Chisom and Adebanjo, Fatimo},
+    author={Chibuike Chisom and Adebanjo Fatimo},
     journal=unpublished,
     year={2025}
 }
