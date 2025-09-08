@@ -193,7 +193,7 @@ If you use this code in your research, please cite:
 @article{chibfatim2025Flatness,
     title={Flatness-Aware Regularization for Robust Generalization in Deep Networks},
     author={Chibuike Chisom and Adebanjo, Fatimo},
-    journal={Proceedings of Machine Learning Research},
+    journal=unpublished,
     year={2025}
 }
 ```
