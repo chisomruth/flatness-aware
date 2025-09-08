@@ -101,8 +101,8 @@ The code runs comprehensive experiments to evaluate:
 - Epochs to reach target accuracy
 - Training time comparison
 
-### 4. Loss LandsFApe Analysis
-- 2D loss landsFApe visualization
+### 4. Loss Landscape Analysis
+- 2D loss landscape visualization
 - Quantitative sharpness metrics
 - Flatness comparison between baseline and FA-regularized models
 
