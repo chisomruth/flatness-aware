@@ -136,7 +136,7 @@ The code runs comprehensive experiments to evaluate:
 4. Is training stable with Flatness penalties?
    - Variance analysis and convergence behavior
 
-## TechniFAl Details
+## Technical Details
 
 ### Hutchinson's Estimator
 - Uses Gaussian random vectors for unbiased Tr(H²) estimation
@@ -190,7 +190,7 @@ def custom_analysis(results):
 If you use this code in your research, please cite:
 
 ```
-@article{chibuike2025Flatness,
+@article{chibfatim2025Flatness,
     title={Flatness-Aware Regularization for Robust Generalization in Deep Networks},
     author={Chibuike Chisom and Adebanjo, Fatimo},
     journal={Proceedings of Machine Learning Research},
