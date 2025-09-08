@@ -1,8 +1,8 @@
 
-    # Flatness-Aware Regularization Experiment Report
+# Flatness-Aware Regularization Experiment Report
 
-    ## Experimental Setup
-    - Dataset: CIFAR-100 subset
+## Experimental Setup
+- Dataset: CIFAR-100 subset
 - Model: 2-layer MLP with ReLU
 - Hidden dimensions: 256
 - Training epochs: 50
